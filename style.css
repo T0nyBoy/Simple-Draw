@@ -1,0 +1,29 @@
+.containAll{
+    margin-left: 30%;
+    margin-right: auto;
+    margin-top: 10vh;
+}
+
+#mycanvas{
+    border:1px solid black;
+    cursor:crosshair;
+}
+
+img{
+    border:2px solid red;
+}
+
+#exportImage{
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+
+#base64Code{
+    width: 50%;
+    background-color: rgb(46, 46, 46);
+
+}
+
+code{
+    color: lime;
+}

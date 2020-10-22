@@ -1,0 +1,13 @@
+0.  -Created the html page
+    -Found code from https://www.w3schools.com/code/tryit.asp?filename=GA0I90OAGXLO
+    -understood the code
+    *next:  get the coordinates of the canvas elements into an array.
+            create clear button
+
+1.  -added clear button
+    -added export button to console.log the canvas content to png/Base64 string.
+
+2.  -export to image
+    -display image
+    -added base64 display
+    -added bootstrap
